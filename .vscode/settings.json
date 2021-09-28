@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e4a158f9-28d5-42e6-b93a-9c3dcdf8ae2a/resourceGroups/AppServiceDomain/providers/Microsoft.Web/sites/theangularapp",
+    "appService.deploySubpath": "dist\\hello-world-angular"
+}
